@@ -1,0 +1,16 @@
+C:\Users\josia\source\repos\StaffDutyScheduler\StaffDutyScheduler\bin\Debug\StaffDutyScheduler.exe.config
+C:\Users\josia\source\repos\StaffDutyScheduler\StaffDutyScheduler\bin\Debug\StaffDutyScheduler.exe
+C:\Users\josia\source\repos\StaffDutyScheduler\StaffDutyScheduler\bin\Debug\StaffDutyScheduler.pdb
+C:\Users\josia\source\repos\StaffDutyScheduler\StaffDutyScheduler\bin\Debug\StaffDutyScheduler.xml
+C:\Users\josia\source\repos\StaffDutyScheduler\StaffDutyScheduler\obj\Debug\StaffDutyScheduler.vbproj.AssemblyReference.cache
+C:\Users\josia\source\repos\StaffDutyScheduler\StaffDutyScheduler\obj\Debug\StaffDutyScheduler.Form1.resources
+C:\Users\josia\source\repos\StaffDutyScheduler\StaffDutyScheduler\obj\Debug\StaffDutyScheduler.Resources.resources
+C:\Users\josia\source\repos\StaffDutyScheduler\StaffDutyScheduler\obj\Debug\StaffDutyScheduler.vbproj.GenerateResource.cache
+C:\Users\josia\source\repos\StaffDutyScheduler\StaffDutyScheduler\obj\Debug\StaffDutyScheduler.vbproj.CoreCompileInputs.cache
+C:\Users\josia\source\repos\StaffDutyScheduler\StaffDutyScheduler\obj\Debug\StaffDutyScheduler.exe
+C:\Users\josia\source\repos\StaffDutyScheduler\StaffDutyScheduler\obj\Debug\StaffDutyScheduler.xml
+C:\Users\josia\source\repos\StaffDutyScheduler\StaffDutyScheduler\obj\Debug\StaffDutyScheduler.pdb
+C:\Users\josia\source\repos\StaffDutyScheduler\StaffDutyScheduler\bin\Debug\StaffDutyScheduler.exe.manifest
+C:\Users\josia\source\repos\StaffDutyScheduler\StaffDutyScheduler\bin\Debug\StaffDutyScheduler.application
+C:\Users\josia\source\repos\StaffDutyScheduler\StaffDutyScheduler\obj\Debug\StaffDutyScheduler.exe.manifest
+C:\Users\josia\source\repos\StaffDutyScheduler\StaffDutyScheduler\obj\Debug\StaffDutyScheduler.application
